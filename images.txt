@@ -1,1 +1,1 @@
-redis
+apache/hop-web:2.7.0
