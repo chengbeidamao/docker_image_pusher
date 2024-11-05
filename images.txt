@@ -1,1 +1,1 @@
-kong:latest
+pantsel/konga:latest
