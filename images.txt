@@ -1,1 +1,1 @@
-postgres:9.6
+kong:latest
