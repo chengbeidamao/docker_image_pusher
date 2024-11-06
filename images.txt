@@ -1,1 +1,1 @@
-pantsel/konga:latest
+pantsel/konga:0.14.9
