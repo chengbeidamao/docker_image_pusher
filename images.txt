@@ -1,1 +1,1 @@
-redis
+gitlab/gitlab-ce:latest
