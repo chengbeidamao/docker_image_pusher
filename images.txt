@@ -1,1 +1,1 @@
-ruchinksinha/oracledb
+ruchinksinha/oracledb:19.3.0.0
